@@ -1,4 +1,5 @@
-# NextFire Blog App (nextfire-blog-app.vercel.app)
+# NextFire Blog App
+Link: nextfire-blog-app.vercel.app
 A React-Next.js-Firebase Social blogging platform
 
 ## 😄 Summary 
