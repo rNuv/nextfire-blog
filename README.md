@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextFire Blog App (nextfire-blog-app.vercel.app)
+A React-Next.js-Firebase Social blogging platform
+
+## 😄 Summary 
+A Medium like social blogging platform that allows authors to post realtime content that is search engine optimized and bot-friendly. The application features server side rendering standards like SSR and ISR through Next.js, Firestore data modeling, user authentication, custom usernames, hearts and image file uploads. Deployment is done using Vercel and fully protected with security rules specified in Firebase.
+
+## 💻 Tech 
+The React in the front end directly connects with Firebase backend services, removing the need for a middle API. User auth is handled by Firebase using OAuth 2.0 and Google sign in. Next.js handles data retrieval, allowing for server side rendering so cliend facing content can be bot and search engine friendly. Vercel allows for easy deployment and CI/CD.
+
+## 📷 Pictures
+![](images/image1.png)
+![](images/image2.png)
+
 
 ## Getting Started
 
