@@ -7,11 +7,14 @@ A Medium like social blogging platform that allows authors to post realtime cont
 
 ## Pictures
 <div align="center">
-  <img src="images/image1.png">
+  <img src="image1.png">
 </div>
 <div align="center">
-  <img src="images/image2.png">
+  <img src="image2.png">
 </div>
+<p align="center">
+  Home page and Example Article page.
+</p>
 
 ## Technologies
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
