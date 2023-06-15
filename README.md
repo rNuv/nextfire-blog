@@ -1,7 +1,8 @@
 # NextFire Blog
-Link: nextfire-blog-app.vercel.app
 
 ## Description
+Link: nextfire-blog-app.vercel.app
+
 A Medium like social blogging platform that allows authors to post realtime content that is search engine optimized and bot-friendly. The application features server side rendering standards like SSR and ISR through Next.js, Firestore data modeling, user authentication, custom usernames, hearts and image file uploads. Deployment is done using Vercel and fully protected with security rules specified in Firebase.
 
 ## Pictures
