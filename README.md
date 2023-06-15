@@ -7,10 +7,10 @@ A Medium like social blogging platform that allows authors to post realtime cont
 
 ## Pictures
 <div align="center">
-  <img src="image1.png">
+  <img src="image1.png" width="666" height="383">
 </div>
 <div align="center">
-  <img src="image2.png">
+  <img src="image2.png" width="666" height="383">
 </div>
 <p align="center">
   Home page and Example Article page.
