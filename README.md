@@ -1,4 +1,4 @@
-# NextFire Blog | [nextfire-blog-app.vercel.app](nextfire-blog-app.vercel.app)
+# NextFire Blog | [nextfire-blog-app.vercel.app](https://nextfire-blog-app.vercel.app)
 
 ## Description
 
